@@ -1,0 +1,38 @@
+.gallery img{
+      width: 100%;
+}
+#menu 
+{
+      width: 100%;
+      background-color:cornflowerblue;
+      padding-top: 12px;
+      height: 40px;
+}
+
+#menu a{
+      color: white;
+      text-decoration: none;
+      font-weight: 800;
+      font-family: Helvetica, sans-serif;
+      font-size: 18px;
+
+      padding-left: 20px;
+      padding-right: 20px;
+}
+#menu a:hover{
+      color:blueviolet;
+}
+
+#text_style {
+      text-align:center;
+
+}
+h2{
+      font-size: larger;
+      font-family: fantasy;
+      text-align: center;
+      color:darkorchid;
+}
+h3{
+      text-align:center;
+}
